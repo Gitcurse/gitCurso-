@@ -1,0 +1,23 @@
+commit 323747b2a146d0b632a642f522e6210335e65d3b
+Author: adaptable2 <jccastaneda82@misena.edu.co>
+Date:   Sun Jul 29 10:17:25 2018 -0500
+
+    se cambio el estilo de color inline de rojo a azul
+
+commit 40e02f1d22025f0d72739cb08d27853d4abb6450
+Author: jccastaneda82@misena.edu.co <root@camilos-MacBook-Pro.local>
+Date:   Sun Jul 29 10:14:25 2018 -0500
+
+    se elimino estilo inline
+
+commit ccb53f4ffa80aad8b7c98b76c178630568206415
+Author: adaptable2 <root@camilos-MacBook-Pro.local>
+Date:   Sun Jul 29 10:12:45 2018 -0500
+
+    se agrego color de forma inline
+
+commit 2e8df9d2ab387c923ea1bccb7533dce4c57894ad
+Author: System Administrator <root@camilos-MacBook-Pro.local>
+Date:   Sun Jul 29 09:15:40 2018 -0500
+
+    curso git codigo facilito inicio
